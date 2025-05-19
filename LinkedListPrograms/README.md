@@ -5,3 +5,5 @@
 [insertList o/p link]->(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/LinkedListPrograms/Screenshot%202025-05-19%20223145.png)
 
 [reverseList o/p link]->(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/LinkedListPrograms/Screenshot%202025-05-19%20223131.png)
+
+[iterateList o/p link]->(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/LinkedListPrograms/Screenshot%202025-05-19%20223112.png)
