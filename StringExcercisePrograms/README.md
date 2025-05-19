@@ -3,3 +3,5 @@
 [subStringCounter o/p link]->(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/StringExcercisePrograms/Screenshot%202025-05-20%20003503.png)
 
 [removeWhitespace o/p link]->(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/StringExcercisePrograms/Screenshot%202025-05-20%20003447.png)
+
+[palindromeChecker o/p link]->(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/StringExcercisePrograms/Screenshot%202025-05-20%20003429.png)
