@@ -9,3 +9,5 @@
 [CheckNullOrWhitespace o/p link]->(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/StringExcercisePrograms/Screenshot%202025-05-20%20003414.png)
 
 [truncate o/p link]->(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/StringExcercisePrograms/Screenshot%202025-05-20%20180022.png)
+
+[isNumeric o/p link]->(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/StringExcercisePrograms/Screenshot%202025-05-20%20175430.png)
