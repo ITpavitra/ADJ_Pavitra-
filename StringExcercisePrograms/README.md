@@ -15,3 +15,5 @@
 [generateRandomString o/p link]->(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/StringExcercisePrograms/Screenshot%202025-05-20%20175248.png)
 
 [countWords o/p link]->(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/StringExcercisePrograms/Screenshot%202025-05-20%20175123.png)
+
+[capitalizeWords o/p link]->(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/StringExcercisePrograms/Screenshot%202025-05-20%20174948.png)
