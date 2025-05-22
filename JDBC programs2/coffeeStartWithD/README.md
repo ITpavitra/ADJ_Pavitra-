@@ -32,8 +32,8 @@ http://localhost:8080/your_project/deleteForm.html
 
 OUTPUT LINK:-
 
-[starting with D]=>(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JDBC%20programs2/coffeeStartWithD/Screenshot%202025-05-22%20215042.png)
+9b =>[starting with D](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JDBC%20programs2/coffeeStartWithD/Screenshot%202025-05-22%20215042.png)
 
 
-(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JDBC%20programs2/coffeeStartWithD/Screenshot%202025-05-22%20215032.png)
+9b=>(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JDBC%20programs2/coffeeStartWithD/Screenshot%202025-05-22%20215032.png)
 
