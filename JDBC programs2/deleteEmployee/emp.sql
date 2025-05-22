@@ -1,1 +1,18 @@
+CREATE DATABASE IF NOT EXISTS Employee;
+
+USE Employee;
+
+DROP TABLE IF EXISTS Emp;
+
+CREATE TABLE Emp (
+    Emp_No INT PRIMARY KEY,
+    Emp_Name VARCHAR(100),
+    BasicSalary DECIMAL(10,2)
+);
+
+-- Sample Data
+INSERT INTO Emp VALUES (101, 'Ramesh', 25000.00);
+INSERT INTO Emp VALUES (102, 'Ravi', 20000.00);
+INSERT INTO Emp VALUES (103, 'Sunil', 22000.00);
+INSERT INTO Emp VALUES (104, 'Sandeep', 18000.00);
 
