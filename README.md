@@ -40,7 +40,7 @@ This section showcases Java programs that demonstrate the use of the LinkedList 
 | String 2a     | `stringHandlingFunction`     | 👉 [View Output](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/stringHandlingFunction/Screenshot%202025-05-19%20224814.png) |
 
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### 📝 StringBuffer and StringBuilder Output
