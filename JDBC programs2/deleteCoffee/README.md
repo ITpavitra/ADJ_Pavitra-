@@ -26,6 +26,6 @@ bash Copy Edit http://localhost:8080/your_project/queryForm.html 🔍 Click the 
 
 OUTPUT LINK:-
 
-(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JDBC%20programs2/deleteCoffee/Screenshot%202025-05-22%20214559.png)
+9a =>deleteCoffe(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JDBC%20programs2/deleteCoffee/Screenshot%202025-05-22%20214559.png)
 
-(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JDBC%20programs2/deleteCoffee/Screenshot%202025-05-22%20214553.png)
+9a=>deleteCoffe(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JDBC%20programs2/deleteCoffee/Screenshot%202025-05-22%20214553.png)
