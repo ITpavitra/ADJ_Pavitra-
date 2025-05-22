@@ -29,12 +29,12 @@ Select Run As > Java Application
 
 OUTPUTLINKS:-
 
-[swapList o/p link]->(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/LinkedListPrograms/Screenshot%202025-05-19%20223211.png)
+LinkedLiist 1=>[swapList o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/LinkedListPrograms/Screenshot%202025-05-19%20223211.png)
 
-[displayPositionList o/p link]->(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/LinkedListPrograms/Screenshot%202025-05-19%20223157.png)
+[displayPositionList o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/LinkedListPrograms/Screenshot%202025-05-19%20223157.png)
 
-[insertList o/p link]->(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/LinkedListPrograms/Screenshot%202025-05-19%20223145.png)
+[insertList o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/LinkedListPrograms/Screenshot%202025-05-19%20223145.png)
 
-[reverseList o/p link]->(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/LinkedListPrograms/Screenshot%202025-05-19%20223131.png)
+[reverseList o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/LinkedListPrograms/Screenshot%202025-05-19%20223131.png)
 
-[iterateList o/p link]->(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/LinkedListPrograms/Screenshot%202025-05-19%20223112.png)
+[iterateList o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/LinkedListPrograms/Screenshot%202025-05-19%20223112.png)
