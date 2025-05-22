@@ -50,6 +50,8 @@ This section showcases Java programs that demonstrate the use of the LinkedList 
 | String 2b     | `StringBufferAndStringBuilder`| 👉 [View Output](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/StringBufferAndStringBuilder/Screenshot%202025-05-19%20225157.png) |
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 ### 🔤 String Operation Handling Output
@@ -59,6 +61,7 @@ This section showcases Java programs that demonstrate the use of the LinkedList 
 | String 3a     | `StringOperationHandling`     | 👉 [View Output](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/StringOperationHandling/Screenshot%202025-05-19%20225833.png) |
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -104,6 +107,7 @@ This section showcases Java programs that demonstrate the use of the LinkedList 
 6c => [primeNumber o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/servletPrograms6/servlet6c/Screenshot%202025-05-21%20145230.png)
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -116,6 +120,7 @@ This section showcases Java programs that demonstrate the use of the LinkedList 
 | 7a           | Second Page Output | 👉 [View Output](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JSPPrograms7/JSP7a/Screenshot%202025-05-21%20151345.png) |
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -137,6 +142,7 @@ This section showcases Java programs that demonstrate the use of the LinkedList 
 | 8a           | Coffee Output    | 👉 [View Output](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JDBC%20programs1/insertcoffee/p8_a.png) |
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -148,6 +154,7 @@ This section showcases Java programs that demonstrate the use of the LinkedList 
 
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### 💼 JDBC Program 8c Outputs
@@ -159,6 +166,7 @@ This section showcases Java programs that demonstrate the use of the LinkedList 
 
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### 🔄 JDBC Program 8d Outputs
