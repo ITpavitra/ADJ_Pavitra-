@@ -6,6 +6,6 @@ Step 3: Deploy and Test Run the application on a server like Apache Tomcat. Step
 
 OUTPUT LINKS:-
 
-[setCookie o/p link]->(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JSPPrograms7/JSP7b_CookieManagementProgram/Screenshot%202025-05-21%20151602.png)
+7b=>[setCookie o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JSPPrograms7/JSP7b_CookieManagementProgram/Screenshot%202025-05-21%20151602.png)
 
-[index o/p link]->(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JSPPrograms7/JSP7b_CookieManagementProgram/Screenshot%202025-05-21%20151554.png)
+7b=>[index o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JSPPrograms7/JSP7b_CookieManagementProgram/Screenshot%202025-05-21%20151554.png)
