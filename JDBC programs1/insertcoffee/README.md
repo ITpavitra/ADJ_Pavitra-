@@ -17,7 +17,9 @@ CREATE TABLE IF NOT EXISTS coffee (
  Step 1:HTML Form for Coffee Insert
 
  step 2: JSP Page to Insert Coffee (addCoffee.jsp):
+ 
  Test and View Results:
+
 After deploying the application on a Tomcat server:
 
 Open the form and submit coffee details.
@@ -25,7 +27,11 @@ Open the form and submit coffee details.
 View the inserted product and all coffee products listed in the table.
 
 Output:
+
 The coffee insert output can be viewed in the following link:
+
 🔗 Coffee Insert Output
+
+Coffe output=>coffee output[]
 
 
