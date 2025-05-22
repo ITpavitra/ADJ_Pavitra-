@@ -14,6 +14,10 @@ This section contains multiple Java programs demonstrating the usage and functio
 
 
 
+### 📌  LinkedList Programs
+This section showcases Java programs that demonstrate the use of the LinkedList class, including insertion, deletion, iteration, and other list operations.
+
+
 
 ### 🔗 LinkedList Program Outputs
 
@@ -26,6 +30,7 @@ This section contains multiple Java programs demonstrating the usage and functio
 | LinkedList 1c5   | `iterateList`            | 👉 [View Output](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/LinkedListPrograms/Screenshot%202025-05-19%20223112.png) |
 
 
+### 📌 Program 2: String programs
 
 
 ### 🧵 String Handling Output
@@ -75,7 +80,7 @@ This section contains multiple Java programs demonstrating the usage and functio
 
 
 
-
+### 📌 Program 4: Swing Programs
 
 🖥️ Swing Programs Output Links
 
@@ -90,7 +95,7 @@ This section contains multiple Java programs demonstrating the usage and functio
 | 5d         | CMY Tabs             | 👉 [CMYTabs o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/swingprograms/Screenshot%202025-05-20%20190543.png)                  |
 
 
-### SERVLETS PROGRAMS 6a 6b 6c
+### 📌 Program 6: Servlet Programs
 
 6a => [factorialNumber o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/servletPrograms6/sevlet6a/Screenshot%202025-05-21%20144651.png)
 
@@ -122,7 +127,7 @@ This section contains multiple Java programs demonstrating the usage and functio
 | 7b           | Set Cookie Output    | 👉 [View Output](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JSPPrograms7/JSP7b_CookieManagementProgram/Screenshot%202025-05-21%20151602.png) |
 
 
-
+### 📌 Program 8: JDBC Programs
 
 
 ### ☕ Coffee Table Output (8a)
@@ -176,7 +181,7 @@ This section contains multiple Java programs demonstrating the usage and functio
 
 
 
-
+### 📌 Program 9: JDBC Programs - Part 2
 
 ### ☕ JDBC Program 9b Outputs
 
