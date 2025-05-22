@@ -41,4 +41,8 @@ Open browser and go to:http://localhost:8080/YourProjectName/
 
 OUTPUTLINKS:-
 
+(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JDBC%20programs2/deleteEmployee/Screenshot%202025-05-22%20220034.png)
+
+
+
 
