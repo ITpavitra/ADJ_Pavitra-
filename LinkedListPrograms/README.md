@@ -31,10 +31,10 @@ OUTPUTLINKS:-
 
 LinkedLiist 1c1=>[swapList o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/LinkedListPrograms/Screenshot%202025-05-19%20223211.png)
 
-LinkedLiist 1c1=>[displayPositionList o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/LinkedListPrograms/Screenshot%202025-05-19%20223157.png)
+LinkedLiist 1c2=>[displayPositionList o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/LinkedListPrograms/Screenshot%202025-05-19%20223157.png)
 
-LinkedLiist 1c1=>[insertList o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/LinkedListPrograms/Screenshot%202025-05-19%20223145.png)
+LinkedLiist 1c3=>[insertList o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/LinkedListPrograms/Screenshot%202025-05-19%20223145.png)
 
-LinkedLiist 1c1=>[reverseList o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/LinkedListPrograms/Screenshot%202025-05-19%20223131.png)
+LinkedLiist 1c4=>[reverseList o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/LinkedListPrograms/Screenshot%202025-05-19%20223131.png)
 
-LinkedLiist 1c1=>[iterateList o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/LinkedListPrograms/Screenshot%202025-05-19%20223112.png)
+LinkedLiist 1c5=>[iterateList o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/LinkedListPrograms/Screenshot%202025-05-19%20223112.png)
