@@ -12,6 +12,7 @@ This section contains multiple Java programs demonstrating the usage and functio
 | `removenthColor`      | 👉 [View Output](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/ArrayListPrograms/Screenshot%202025-05-19%20222445.png) |
 | `subListColors`       | 👉 [View Output](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/ArrayListPrograms/Screenshot%202025-05-19%20222502.png) |
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### 📌  LinkedList Programs
@@ -29,6 +30,7 @@ This section showcases Java programs that demonstrate the use of the LinkedList 
 | LinkedList 1c4   | `reverseList`            | 👉 [View Output](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/LinkedListPrograms/Screenshot%202025-05-19%20223131.png) |
 | LinkedList 1c5   | `iterateList`            | 👉 [View Output](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/LinkedListPrograms/Screenshot%202025-05-19%20223112.png) |
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 📌 Program 2: String programs
 
@@ -81,6 +83,7 @@ This section showcases Java programs that demonstrate the use of the LinkedList 
 | String 3c10    | `capitalizeWords`             | 👉 [View Output](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/StringExcercisePrograms/Screenshot%202025-05-20%20174948.png) |
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### 📌 Program 4: Swing Programs
@@ -97,12 +100,17 @@ This section showcases Java programs that demonstrate the use of the LinkedList 
 | 5c         | Country Capital      | 👉 [countryCapital o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/swingprograms/Screenshot%202025-05-20%20190308.png)          |
 | 5d         | CMY Tabs             | 👉 [CMYTabs o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/swingprograms/Screenshot%202025-05-20%20190543.png)                  |
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 📌 Program 6: Servlet Programs
 
 6a => [factorialNumber o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/servletPrograms6/sevlet6a/Screenshot%202025-05-21%20144651.png)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 6b => [cookieTextBox o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/servletPrograms6/servlet6b/Screenshot%202025-05-21%20144911.png)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 6c => [primeNumber o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/servletPrograms6/servlet6c/Screenshot%202025-05-21%20145230.png)
 
@@ -131,6 +139,7 @@ This section showcases Java programs that demonstrate the use of the LinkedList 
 | 7b           | Index Page Output    | 👉 [View Output](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JSPPrograms7/JSP7b_CookieManagementProgram/Screenshot%202025-05-21%20151554.png) |
 | 7b           | Set Cookie Output    | 👉 [View Output](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JSPPrograms7/JSP7b_CookieManagementProgram/Screenshot%202025-05-21%20151602.png) |
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 📌 Program 8: JDBC Programs
 
@@ -177,6 +186,7 @@ This section showcases Java programs that demonstrate the use of the LinkedList 
 | 8d           | Update Employee Details  | 👉 [View Output](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JDBC%20programs1/updateEmployee/Screenshot%202025-05-22%20213834.png) |
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -187,6 +197,7 @@ This section showcases Java programs that demonstrate the use of the LinkedList 
 | 9a           | Delete Coffee 1  | 👉 [View Output 1](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JDBC%20programs2/deleteCoffee/Screenshot%202025-05-22%20214559.png) |
 | 9a           | Delete Coffee 2  | 👉 [View Output 2](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JDBC%20programs2/deleteCoffee/Screenshot%202025-05-22%20214553.png) |
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### 📌 Program 9: JDBC Programs - Part 2
@@ -198,6 +209,7 @@ This section showcases Java programs that demonstrate the use of the LinkedList 
 | 9b           | Coffee Records Starting with D | 👉 [View Output 1](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JDBC%20programs2/coffeeStartWithD/Screenshot%202025-05-22%20215042.png) |
 | 9b           | Coffee Records Starting with D | 👉 [View Output 2](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JDBC%20programs2/coffeeStartWithD/Screenshot%202025-05-22%20215032.png) |
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### ✏️ JDBC Program 9c Outputs
@@ -209,6 +221,7 @@ This section showcases Java programs that demonstrate the use of the LinkedList 
 
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### 🗑️ JDBC Program 9d Outputs
@@ -218,6 +231,7 @@ This section showcases Java programs that demonstrate the use of the LinkedList 
 | 9d           | Delete Employee 1   | 👉 [View Output 1](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JDBC%20programs2/deleteEmployee/Screenshot%202025-05-22%20220034.png) |
 | 9d           | Delete Employee 2   | 👉 [View Output 2](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JDBC%20programs2/deleteEmployee/Screenshot%202025-05-22%20220025.png) |
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
