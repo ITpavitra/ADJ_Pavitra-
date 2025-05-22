@@ -30,16 +30,16 @@ Select Run As > Java Application
 OUTPUTLINKS:-
 
 
-colorSearch o/p =>[colorSearch o/p link]->(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/ArrayListPrograms/Screenshot%202025-05-19%20221314.png)
+colorSearch o/p =>[colorSearch o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/ArrayListPrograms/Screenshot%202025-05-19%20221314.png)
 
 
-removeColors o/p =>[removeColors o/p link]->(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/ArrayListPrograms/Screenshot%202025-05-19%20221701.png)
+removeColors o/p =>[removeColors o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/ArrayListPrograms/Screenshot%202025-05-19%20221701.png)
 
 
-colorSort o/p =>[colorSort o/p link]->(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/ArrayListPrograms/Screenshot%202025-05-19%20221930.png)
+colorSort o/p =>[colorSort o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/ArrayListPrograms/Screenshot%202025-05-19%20221930.png)
 
 
-removenthColor o/p =>[removenthColor o/p link]->(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/ArrayListPrograms/Screenshot%202025-05-19%20222445.png)
+removenthColor o/p =>[removenthColor o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/ArrayListPrograms/Screenshot%202025-05-19%20222445.png)
 
 
-subListColors o/p =>[subListColors o/p link]->(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/ArrayListPrograms/Screenshot%202025-05-19%20222502.png)
+subListColors o/p =>[subListColors o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/ArrayListPrograms/Screenshot%202025-05-19%20222502.png)
