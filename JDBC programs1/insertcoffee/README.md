@@ -32,6 +32,6 @@ The coffee insert output can be viewed in the following link:
 
 🔗 Coffee Insert Output
 
-Coffe output=>coffee output[]
+Coffe output=>coffee output(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JDBC%20programs1/insertcoffee/p8_a.png)
 
 
