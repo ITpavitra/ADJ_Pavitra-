@@ -45,4 +45,4 @@ After deploying the application on a Tomcat server, open the form and enter a va
 Upon submitting, the coffee record will be updated, and all coffee products will be displayed with the changes.
 
 outputlink:
-updatecoffee output=>(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JDBC%20programs1/updatecoffe/p8_b.png)
+updatecoffee output=>output link(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JDBC%20programs1/updatecoffe/p8_b.png)
