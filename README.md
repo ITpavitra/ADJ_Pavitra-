@@ -13,6 +13,8 @@ This section contains multiple Java programs demonstrating the usage and functio
 | `subListColors`       | 👉 [View Output](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/ArrayListPrograms/Screenshot%202025-05-19%20222502.png) |
 
 
+
+
 ### 🔗 LinkedList Program Outputs
 
 | 🔢 Program ID    | 📄 Description          | 🔗 Output Screenshot |
@@ -24,11 +26,15 @@ This section contains multiple Java programs demonstrating the usage and functio
 | LinkedList 1c5   | `iterateList`            | 👉 [View Output](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/LinkedListPrograms/Screenshot%202025-05-19%20223112.png) |
 
 
+
+
 ### 🧵 String Handling Output
 
 | 🔢 Program ID | 📄 Description             | 🔗 Output Screenshot |
 |---------------|-----------------------------|----------------------|
 | String 2a     | `stringHandlingFunction`     | 👉 [View Output](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/stringHandlingFunction/Screenshot%202025-05-19%20224814.png) |
+
+
 
 
 
@@ -39,11 +45,15 @@ This section contains multiple Java programs demonstrating the usage and functio
 | String 2b     | `StringBufferAndStringBuilder`| 👉 [View Output](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/StringBufferAndStringBuilder/Screenshot%202025-05-19%20225157.png) |
 
 
+
+
 ### 🔤 String Operation Handling Output
 
 | 🔢 Program ID | 📄 Description               | 🔗 Output Screenshot |
 |---------------|-------------------------------|----------------------|
 | String 3a     | `StringOperationHandling`     | 👉 [View Output](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/StringOperationHandling/Screenshot%202025-05-19%20225833.png) |
+
+
 
 
 
@@ -64,6 +74,9 @@ This section contains multiple Java programs demonstrating the usage and functio
 
 
 
+
+
+
 🖥️ Swing Programs Output Links
 
 | Program ID | Description          | Output Screenshot Link                                                                                         |
@@ -77,11 +90,15 @@ This section contains multiple Java programs demonstrating the usage and functio
 | 5d         | CMY Tabs             | 👉 [CMYTabs o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/swingprograms/Screenshot%202025-05-20%20190543.png)                  |
 
 
+### SERVLETS PROGRAMS 6a 6b 6c
+
 6a => [factorialNumber o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/servletPrograms6/sevlet6a/Screenshot%202025-05-21%20144651.png)
 
 6b => [cookieTextBox o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/servletPrograms6/servlet6b/Screenshot%202025-05-21%20144911.png)
 
 6c => [primeNumber o/p link](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/servletPrograms6/servlet6c/Screenshot%202025-05-21%20145230.png)
+
+
 
 
 
@@ -95,12 +112,16 @@ This section contains multiple Java programs demonstrating the usage and functio
 
 
 
+
+
 ### 🍪 JSP Program 7b Outputs (Cookie Management)
 
 | 🔢 Program ID | 📄 Description       | 🔗 Output Screenshot |
 |--------------|----------------------|----------------------|
 | 7b           | Index Page Output    | 👉 [View Output](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JSPPrograms7/JSP7b_CookieManagementProgram/Screenshot%202025-05-21%20151554.png) |
 | 7b           | Set Cookie Output    | 👉 [View Output](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JSPPrograms7/JSP7b_CookieManagementProgram/Screenshot%202025-05-21%20151602.png) |
+
+
 
 
 
@@ -112,11 +133,15 @@ This section contains multiple Java programs demonstrating the usage and functio
 
 
 
+
+
 ### ☕️ Update Coffee Output (8b)
 
 | 🔢 Program ID | 📄 Description       | 🔗 Output Screenshot |
 |--------------|----------------------|----------------------|
 | 8b           | Update Coffee Output  | 👉 [View Output](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JDBC%20programs1/updatecoffe/p8_b.png) |
+
+
 
 
 
@@ -129,6 +154,8 @@ This section contains multiple Java programs demonstrating the usage and functio
 
 
 
+
+
 ### 🔄 JDBC Program 8d Outputs
 
 | 🔢 Program ID | 📄 Description          | 🔗 Output Screenshot |
@@ -138,12 +165,16 @@ This section contains multiple Java programs demonstrating the usage and functio
 
 
 
+
+
 ### 🗑️ JDBC Program 9a Outputs
 
 | 🔢 Program ID | 📄 Description   | 🔗 Output Screenshot |
 |--------------|------------------|----------------------|
 | 9a           | Delete Coffee 1  | 👉 [View Output 1](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JDBC%20programs2/deleteCoffee/Screenshot%202025-05-22%20214559.png) |
 | 9a           | Delete Coffee 2  | 👉 [View Output 2](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JDBC%20programs2/deleteCoffee/Screenshot%202025-05-22%20214553.png) |
+
+
 
 
 
@@ -162,6 +193,7 @@ This section contains multiple Java programs demonstrating the usage and functio
 |--------------|---------------------|----------------------|
 | 9c           | Update Employee 1   | 👉 [View Output 1](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JDBC%20programs2/updateEmployee/Screenshot%202025-05-22%20215636.png) |
 | 9c           | Update Employee 2   | 👉 [View Output 2](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JDBC%20programs2/updateEmployee/Screenshot%202025-05-22%20215616.png) |
+
 
 
 
