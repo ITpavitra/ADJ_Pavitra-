@@ -42,6 +42,6 @@ http://localhost:8080/your_project_name/
 
 OUTPUTLINKS:-
 
-[update Employee Table]->(https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JDBC%20programs1/updateEmployee/Screenshot%202025-05-22%20213843.png)
+8b =>[update Employee Table](https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JDBC%20programs1/updateEmployee/Screenshot%202025-05-22%20213843.png)
 
-[update employee details]->https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JDBC%20programs1/updateEmployee/Screenshot%202025-05-22%20213834.png)
+8b=>[update employee details]https://github.com/ITpavitra/ADJ_Pavitra-/blob/main/JDBC%20programs1/updateEmployee/Screenshot%202025-05-22%20213834.png)
